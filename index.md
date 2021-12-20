@@ -5,9 +5,12 @@ Hello!
 I'm currently a second-year student pursuing a degree in Computer Engineering. Along with learning more about programming, I enjoy finding out more about my field and exploring different domains. I like planning and taking charge and trying out new things to broaden my horizons. Challenging myself and pushing my limits are what I enjoy doing immensely, too.
 
 ## *Projects:*
-- Built a voice assistant
-- [Made an obstacle game](https://scratch.mit.edu/projects/562624419)
-- [Built a clone site of Internshala](https://internshala-twin.000webhostapp.com/)
+#### - Voice Assistant -
+I made a voice assistant using Python language that could give information according to Wikipedia, launch YouTube, open & look up stuff on Google, tell the current date and time, play music, launch Stackoverflow, perform simple calculations, read PDFs, play rock-paper-scissor with the user, & read out the text entered by the user.
+#### - [Obstacle Game](https://scratch.mit.edu/projects/562624419) -
+I made a game on Scratch in which the user has to use arrow keys to move and jump over obstacles in the path to advance to the next level.
+#### - [Clone Site Of Internshala](https://internshala-twin.000webhostapp.com/) -
+I developed a website which is a clone of the site Internshala using HTML, CSS, Bootstrap and jQuery.
 
 ## *Skills:*
 - Python
@@ -50,3 +53,4 @@ I'm currently a second-year student pursuing a degree in Computer Engineering. A
 - Email- zoyamariam7@gmail.com
 - GitHub- [Zoya Mariam Patel](https://github.com/zoyamariam2001)
 - LinkedIn- [Zoya Patel](https://www.linkedin.com/in/zoya-patel-570626213/)
+
