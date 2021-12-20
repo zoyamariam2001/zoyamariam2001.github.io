@@ -25,22 +25,22 @@ I developed a website which is a clone of the site Internshala using HTML, CSS, 
 
 ## *Current Endeavours:*
 - Learning C++, Bootstrap, jQuery, SQL, PHP & Markdown
-- Making a game using JavaScript
-- Making a site for a bakery
-- Going to start an internship from January 2022
+- Creating a game using JavaScript
+- Creating a site for a bakery
+- Planning to start an internship from January 2022
 
 ## *Certifications:*
 - (insert certificates & achievements)
 
 ## *Volunteer Work:*
-- Founding Member & Event Management Head at MESCOE's CodeStorm Club
-- Writer, Head & Coordinator at MESCOE's Magazine Committee
-- Coordinator at MESCOE's Placement Team
+- Founding Member & Event Management Head of MESCOE's CodeStorm Club
+- Writer, Head & Coordinator of MESCOE's Magazine Committee
+- Coordinator of MESCOE's Placement Team
 
 ## *Education:*
-- College: Modern Education Society's College Of Engineering, Pune
+- College: Modern Education Society's College Of Engineering, Pune; Stream- Computer Engineering
 - Junior College: Arihant College Of Arts, Commerce & Sciences, Pune
-- High School: Hutchings High School, Pune
+- High School: Hutchings High School & Junior College, Pune
 
 ## *Hobbies:*
 - Reading
