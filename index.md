@@ -22,19 +22,20 @@ I developed a website which is a clone of the site Internshala using HTML, CSS, 
 - Fluent in English & Hindi
 - Public Speaking
 - Leadership
+- Time Management
 
 ## *Current Endeavours:*
 - Learning C++, Bootstrap, jQuery, SQL, PHP & Markdown
 - Creating a game using JavaScript
-- Creating a site for a bakery
+- Creating a site for a bakery using HTML, CSS, JavaScript, Bootstrap, jQuery, SQL & PHP.
 - Planning to start an internship from January 2022
 
 ## *Certifications:*
 1. [30 Days of Google Cloud Program](https://drive.google.com/file/d/13dai3YoXk-r8aYjlL2sGucm6LICgTZmm/view?usp=sharing) : add link to site with badges
-2. [Introduction to Basic Game Development using Scratch](https://drive.google.com/file/d/1meqlKHS1oboxBQ1B9u7cxpTtcy2onsK6/view?usp=sharing) :Coursera
+2. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing)
 3. [Programming Fundamentals](https://drive.google.com/file/d/1x_Z-4ZmEYwvP6ST0YNSIxlwcI2UunYKl/view?usp=sharing) : Coursera
 4. [AI4Students Workshop](https://drive.google.com/file/d/1pqftlsCR_kDZpgsTNE831r-2J9irqXXH/view?usp=sharing) :learnt about AI
-5. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing)
+5. [Introduction to Basic Game Development using Scratch](https://drive.google.com/file/d/1meqlKHS1oboxBQ1B9u7cxpTtcy2onsK6/view?usp=sharing) :Coursera
 6. [Coding Fundamentals of JavaScript](https://drive.google.com/file/d/1d08ZzK9koilkZH_VJr9DpSGshiSjHUXE/view?usp=sharing)
 7. [Robotics & Automation using MATLAB Workshop](https://drive.google.com/file/d/1j8ibV7867U7OIK18XmBTZbp8HJIxiKHn/view?usp=sharing)
 8. [Tathastu DSA Workshop](https://drive.google.com/file/d/1oPf2F-mHBfHCx5EW3KXLTpgQZWiLC8yl/view?usp=sharing)
