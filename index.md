@@ -7,13 +7,15 @@ I'm currently a student pursuing a degree in Computer Engineering. Along with le
 ## Projects:
 - Built a voice assistant
 - Made a game
-- Built a clone site of Internshala
+- [Built a clone site of Internshala](https://internshala-twin.000webhostapp.com/)
 
 ## Skills:
 - Python
 - HTML
 - CSS
 - Microsoft Excel, Word & Powerpoint
+- Tutoring
+- Creative Writing
 - Fluent in English & Hindi
 - Public Speaking
 - Leadership
@@ -28,9 +30,9 @@ I'm currently a student pursuing a degree in Computer Engineering. Along with le
 - (insert certificates & achievements)
 
 ## Volunteer Work:
-- Founding Member of MESCOE's CodeStorm Club
-- Writer, Head & Coordinator of MESCOE's Magazine Committee
-- Coordinator of MESCOE's Placement Team
+- Founding Member & Event Management Head at MESCOE's CodeStorm Club
+- Writer, Head & Coordinator at MESCOE's Magazine Committee
+- Coordinator at MESCOE's Placement Team
 
 ## Education:
 - College: Modern Education Society's College Of Engineering, Pune
@@ -45,5 +47,5 @@ I'm currently a student pursuing a degree in Computer Engineering. Along with le
 - Coding
 
 ## Contact Me:
-- zoyamariam7@gmail.com
-- (linkedin)
+- Email- zoyamariam7@gmail.com
+- LinkedIn- [Zoya Patel](https://www.linkedin.com/in/zoya-patel-570626213/)
