@@ -5,11 +5,17 @@ Hello!
 I'm currently a second-year student pursuing a degree in Computer Engineering. Along with learning more about programming, I enjoy finding out more about my field and exploring different domains. I like planning and taking charge and trying out new things to broaden my horizons. Challenging myself and pushing my limits are what I enjoy doing immensely, too.
 
 ## *Projects:*
-#### - Voice Assistant -
+#### 1. Voice Assistant -
+![Voice Assistant In Action](/images/voice.jpg)
+
 I made a voice assistant using Python language that could give information according to Wikipedia, launch YouTube, open & look up stuff on Google, tell the current date and time, play music, launch Stackoverflow, perform simple calculations, read PDFs, play rock-paper-scissor with the user, & read out the text entered by the user.
-#### - [Obstacle Game](https://scratch.mit.edu/projects/562624419) -
+#### 2. [Obstacle Game](https://scratch.mit.edu/projects/562624419) -
+![Game In Action](/images/game.jpg)
+
 I made a game on Scratch in which the user has to use arrow keys to move and jump over obstacles in the path to advance to the next level.
-#### - [Clone Site Of Internshala](https://internshala-twin.000webhostapp.com/) -
+#### 3. [Clone Site Of Internshala](https://internshala-twin.000webhostapp.com/) -
+![Site Home Page](/images/site.jpg)
+
 I developed a website which is a clone of the site Internshala using HTML, CSS, Bootstrap and jQuery.
 
 ## *Skills:*
