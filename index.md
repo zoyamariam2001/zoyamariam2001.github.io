@@ -67,7 +67,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - Coordinator of MESCOE's Placement Team
 
 ## *Education:*
-- College: Modern Education Society's College Of Engineering, Pune; Stream- Computer Engineering
+- College: Modern Education Society's College Of Engineering {Affiliated to Savitribai Phule Pune University (formerly called University of Pune)}, Pune; Stream- Computer Engineering
 - Junior College: Arihant Junior College Of Arts, Commerce & Sciences, Pune
 - High School: Hutchings High School & Junior College, Pune
 
