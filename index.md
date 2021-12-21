@@ -3,27 +3,29 @@
 
 ## *About Me:*
 Hello!
-I'm currently a second-year student pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my area of interest is programming, I also enjoy learning about different fields & exploring different domains. I'm good at planning and executing various things & taking charge & leading teams. Projects & exercises which challenge me and push me to my limits are what I enjoy immensely. Public speaking & leadership qualities are my forte.
+I'm currently a second-year student pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my prime area of interest is programming, I also enjoy learning about different fields & exploring different domains. I'm good at planning and executing various things & taking charge & leading teams. Projects & exercises which challenge me and push me to my limits are what I enjoy immensely. Public speaking & leadership qualities are my forte.
 
 ## *Projects:*
 #### 1. Voice Assistant -
 ![Voice Assistant In Action](/images/voice.jpg)
 
-- I have designed a voice assistant using Python language which gives information according to Wikipedia, launches YouTube, opens & looks up stuff on Google, tells the current date and time, plays music, launches Stackoverflow, performs simple calculations, reads documents, plays rock-paper-scissor with the user, tells jokes, & reads out the text entered by the user.
-- I used Google APIto convert speech into text, the 'pyttsx3' module to give voices, the 'os' module, the 'random' module, the 'pyjokes' module, & the 'webbrowser' module in my program.
+- I have designed this voice assistant using Python language which gives information found on Wikipedia, launches YouTube, helps search stuff on Google, tells the current date and time, plays music, launches Stackoverflow, performs simple calculations, reads documents, plays rock-paper-scissor with the user, tells jokes, & reads out the text entered by the user.
+- I have used Google API to convert speech into text, the 'pyttsx3' module to give voices, the 'os' module, the 'random' module, the 'pyjokes' module, & the 'webbrowser' module in this program.
 - The program greets the user upon being called & then performs the action told to it.
-- The picture I have put above is of the assitant in action & it is performing a math calculation in it.
+- The picture above is of my voice assitant in action, & here you can see it performing a mathematical calculation.
 
 #### 2. [Obstacle Game](https://scratch.mit.edu/projects/562624419) -
 ![Game In Action](/images/game.jpg)
 
-- I have created a game using Scratch in which the user has to use arrow keys to move and jump over obstacles and as he clears various paths, he advances to higher levels.
-- The picture I have included above is of how the game looks like when you begin to play it.
-#### 3. [Clone Site Of Internshala](https://internshala-twin.000webhostapp.com/) -
+- I have created this game using Scratch in which the user has to use arrow keys to move and jump over obstacles and on clearing various paths, the player advances to higher levels.
+- The picture I have included above is of the first frame of the game.
+
+#### 3. [Site For Internships](https://internshala-twin.000webhostapp.com/) -
 ![Site Home Page](/images/site.jpg)
 
-- I have developed a website which is a clone to the site Internshala using HTML, CSS, Bootstrap and jQuery with a few tweaks of my own.
-- The picture I have included is part of the home page of the site.
+- I have developed a website on the lines of the currently available site Internshala, through which people can signup for internships in their areas of interest.
+- I have used HTML, CSS, Bootstrap and jQuery.
+- The picture I have included is a segment of the home page.
 
 ## *Skills:*
 - Python
