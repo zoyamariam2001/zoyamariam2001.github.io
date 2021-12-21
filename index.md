@@ -41,7 +41,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - Planning, Organizing & Time Management
 
 ## *Current Endeavours:*
-- Learning C++, Bootstrap, jQuery, SQL, PHP & Markdown
+- Learning C++, C, Bootstrap, jQuery, SQL, PHP & Markdown
 - Creating a game using JavaScript
 - Creating a site for a bakery using HTML, CSS, JavaScript, Bootstrap, jQuery, SQL & PHP.
 - Planning to start an internship from January 2022
