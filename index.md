@@ -3,7 +3,7 @@
 
 ## *About Me:*
 Hello!
-I'm currently a second-year student pursuing a degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Althoug my area of interest is programming, I also enjoy learning about different fields & exploring different domains. I'm good at planning and executing various things & taking charge & leading teams. Projects & exercises which challenge me and push me to my limits are what I enjoy immensely. Public speaking & leadership qualities are my forte.
+I'm currently a second-year student pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Althoug my area of interest is programming, I also enjoy learning about different fields & exploring different domains. I'm good at planning and executing various things & taking charge & leading teams. Projects & exercises which challenge me and push me to my limits are what I enjoy immensely. Public speaking & leadership qualities are my forte.
 
 ## *Projects:*
 #### 1. Voice Assistant -
