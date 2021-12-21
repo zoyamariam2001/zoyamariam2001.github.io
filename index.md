@@ -33,12 +33,12 @@ I'm currently a second-year student pursuing a bachelor's degree in Computer Eng
 - CSS
 - Microsoft Excel, Word & Powerpoint
 - Microsoft Azure
-- Tutoring
-- Creative Writing
-- Fluent in English & Hindi
-- Public Speaking
 - Leadership
-- Time Management
+- Public Speaking
+- Creative Writing
+- Mentoring & Tutoring
+- Fluency in English & Hindi languages
+- Planning, Organizing & Time Management
 
 ## *Current Endeavours:*
 - Learning C++, Bootstrap, jQuery, SQL, PHP & Markdown
