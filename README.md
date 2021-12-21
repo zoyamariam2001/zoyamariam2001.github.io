@@ -1,9 +1,13 @@
 ## Documentation:
-The project is my portfolio.
+This webpage is my portfolio which I have created using Markdown & the Cayman Jekyll theme.
 
-I have mentioned my projects, skills, current endeavours, certifications, volunteer work, education, hobbies & ways to contact me.
-I have used Markdown & the Cayman Jekyll theme on my site.
-My certificates are connected to the site by links to the respective locations in my Google Drive.
-I have uploaded screenshots of my projects and put them on my portfolio as well to give a better idea of the work I have done.
+It covers my educational qualifications in detail, my areas of interest, my strong points, my skills and my hobbies.
+I have also described the projects I have completed and the ones I am working on currently.
 
-This project can help the interviewers and recruiters to get a better understanding of who I am and all that I can do and have accomplished so far. Thus, it can help me get better internships & jobs.
+My certificates are connected by links to their respective locations in my Google Drive.
+I have uploaded screenshots of my projects and put them on my portfolio to give a better idea of the work I have done.
+
+This portfolio can help the interviewers and recruiters to get a glimpse of my personality, my potential, my capabilities and my achievements so far.
+This in turn would increase my chances of landing interesting, challenging and rewarding opportunities.
+
+My contact details are also mentioned for future communication.
