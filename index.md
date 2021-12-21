@@ -10,20 +10,20 @@ I'm currently a second-year student pursuing a bachelor's degree in Computer Eng
 ![Voice Assistant In Action](/images/voice.jpg)
 
 - I have designed this voice assistant using Python language which gives information found on Wikipedia, launches YouTube, helps search stuff on Google, tells the current date and time, plays music, launches Stackoverflow, performs simple calculations, reads documents, plays rock-paper-scissor with the user, tells jokes, & reads out the text entered by the user.
-- I have used Google API to convert speech into text, the 'pyttsx3' module to give voices, the 'os' module, the 'random' module, the 'pyjokes' module, & the 'webbrowser' module in this program.
-- The program greets the user upon being called & then performs the action told to it.
+- I have used Google APIs to convert speech into text, the 'pyttsx3' module to give voices, the 'os' module, the 'random' module, the 'pyjokes' module, & the 'webbrowser' module in this program.
+- The program greets the user upon being called & then performs the tasks told to it.
 - The picture above is of my voice assitant in action, & here you can see it performing a mathematical calculation.
 
 #### 2. [Obstacle Game](https://scratch.mit.edu/projects/562624419) -
 ![Game In Action](/images/game.jpg)
 
-- I have created this game using Scratch in which the user has to use arrow keys to move and jump over obstacles and on clearing various paths, the player advances to higher levels.
+- I have created this game using Scratch in which the user has to use arrow keys to move and jump over obstacles; and on clearing various paths, the player advances to higher levels.
 - The picture I have included above is of the first frame of the game.
 
 #### 3. [Site For Internships](https://internshala-twin.000webhostapp.com/) -
 ![Site Home Page](/images/site.jpg)
 
-- I have developed a website on the lines of the currently available site Internshala, through which people can signup for internships in their areas of interest.
+- I have developed a website on the lines of the currently available site, Internshala, through which people can sign-up for internships in their areas of interest.
 - I have used HTML, CSS, Bootstrap and jQuery.
 - The picture I have included is a segment of the home page.
 
@@ -48,7 +48,7 @@ I'm currently a second-year student pursuing a bachelor's degree in Computer Eng
 
 ## *Certifications:*
 1. [Google Cloud Program](https://drive.google.com/file/d/13dai3YoXk-r8aYjlL2sGucm6LICgTZmm/view?usp=sharing) : This program was organized by GDSC and here I learnt about Google Cloud. I earned badges for various accomplishments such as deploying to Kubernetes, building & securing networks, & creating & managing cloud resources. Here is a link to [my profile on Qwiklabs](https://www.cloudskillsboost.google/public_profiles/e7bdf1ec-8203-44af-b087-fb36aaa8d691) so you can see all of them.
-2. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing) : This course trained me in the fundamentals of Python in depth. I learnt about a lot of things such as classes, file handling & various modules.
+2. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing) : This course trained me in the fundamentals of Python. I learnt about a lot of things such as classes, file handling & various modules.
 3. [Programming Fundamentals](https://drive.google.com/file/d/1x_Z-4ZmEYwvP6ST0YNSIxlwcI2UunYKl/view?usp=sharing) : This course was on Coursera and here I learnt about the basics of C language and algorithms.
 4. [AI4Students Workshop](https://drive.google.com/file/d/1pqftlsCR_kDZpgsTNE831r-2J9irqXXH/view?usp=sharing) : This course was about Artificial Intelligence & its importance as well as about Microsoft Azure. 
 5. [Introduction to Basic Game Development using Scratch](https://drive.google.com/file/d/1meqlKHS1oboxBQ1B9u7cxpTtcy2onsK6/view?usp=sharing)
