@@ -5,6 +5,13 @@
 Hello!
 I'm currently a second-year student, pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my prime area of interest is programming, I also enjoy learning about different fields & exploring different domains. I have been told that I have good leadership skills & that I am good at planning & executing the plans efficiently, involving all my team-mates where everyone's opinion is taken into consideration. I immensely enjoy challenges & enjoy those projects and exercises which push me to my limits. Public speaking is another of my forte.
 
+## *Internships:*
+#### [Web Development](https://hand-in-hand-ngo.000webhostapp.com/) -
+- I made a website for an NGO as part of my internship for AnsrCoach in the month of January 2022.
+- The site has details about the NGO "Hand In Hand" such as the services provided by it and ways to contact the team.
+- Razorpay has been integrated to collect donations from the user, too.
+- I used HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, PHP in the site.
+
 ## *Projects:*
 #### 1. Voice Assistant -
 ![Voice Assistant In Action](/images/voice.jpg)
@@ -20,7 +27,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - I have created this game using Scratch in which the user has to use arrow keys to move and jump over obstacles; and on clearing various paths, the player advances to higher levels.
 - The picture I have included above is of the first frame of the game.
 
-#### 3. [Site For Internships](https://internshala-twin.000webhostapp.com/) -
+#### 3. Site For Internships -
 ![Site Home Page](/images/site.jpg)
 
 - I have developed a website on the lines of the currently available site, Internshala, through which people can sign-up for internships in their areas of interest.
@@ -29,8 +36,16 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 
 ## *Skills:*
 - Python
+- C++
+- C
 - HTML
 - CSS
+- Bootstrap
+- JavaScript
+- jQuery
+- SQL
+- PHP
+- Markdown
 - Microsoft Excel, Word & Powerpoint
 - Microsoft Azure
 - Leadership
