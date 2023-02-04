@@ -46,6 +46,9 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - SQL
 - PHP
 - Markdown
+- MongoDB
+- MySQL
+- Bubble
 - Microsoft Excel, Word & Powerpoint
 - Microsoft Azure
 - Leadership
