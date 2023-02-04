@@ -62,7 +62,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - Learning C++, C, Bootstrap, jQuery, SQL, PHP & Markdown
 - Creating a game using JavaScript
 - Creating a site for a bakery using HTML, CSS, JavaScript, Bootstrap, jQuery, SQL & PHP.
-- Planning to start an internship from January 2022
+- Applying for internships
 
 ## *Certifications:*
 1. [Google Cloud Program](https://drive.google.com/file/d/13dai3YoXk-r8aYjlL2sGucm6LICgTZmm/view?usp=sharing) : This program was organized by GDSC and here I learnt about Google Cloud. I earned badges for various accomplishments such as deploying to Kubernetes, building & securing networks, & creating & managing cloud resources. Here is a link to [my profile on Qwiklabs](https://www.cloudskillsboost.google/public_profiles/e7bdf1ec-8203-44af-b087-fb36aaa8d691) so you can see all of them.
@@ -94,7 +94,6 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - Solving Sudoku Puzzles
 - Cooking
 - Playing Badminton & Carrom
-- Coding
 
 ## *Contact Me:*
 - Email- zoyamariam7@gmail.com
