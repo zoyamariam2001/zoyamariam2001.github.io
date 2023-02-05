@@ -36,7 +36,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - The picture I have included is a segment of the home page.
 
 ## *Achievements:*
-- Was only student to get a perfect 10 SGPA in entire computer engineering department in the second year of engineering course.
+- Was only student to get a perfect 10 SGPA in entire computer engineering department in my academic year in the second year of the course.
 - Was runner-up in batch for making a project for a web development course by AnsrCoach. Here is the link to the [certificate.](https://drive.google.com/file/d/1AYiaaBIu-YmW1e8mY3BEK1GTLKlsOh4l/view?usp=sharing)
 
 ## *Skills:*
