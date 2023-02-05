@@ -11,6 +11,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - The site has details about the NGO "Hand In Hand" such as the services provided by it and ways to contact the team.
 - Razorpay has been integrated to collect donations from the user, too.
 - I used HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, PHP in the site.
+- Here is this certificate I received for the completion of this internship: [Certificate](https://drive.google.com/file/d/1AVuLgA4adP3qAK6DB_IIWWf6w2j_e310/view?usp=sharing)
 
 ## *Projects:*
 #### 1. Voice Assistant -
@@ -34,6 +35,10 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - I have used HTML, CSS, Bootstrap and jQuery.
 - The picture I have included is a segment of the home page.
 
+## *Achievements:*
+- Was only student to get a perfect 10 SGPA in entire computer engineering department in the second year of engineering course.
+- Was runner-up in batch for making a project for a web development course by AnsrCoach. Here is the link to the [certificate.](https://drive.google.com/file/d/1AYiaaBIu-YmW1e8mY3BEK1GTLKlsOh4l/view?usp=sharing)
+
 ## *Skills:*
 - Python
 - C++
@@ -50,6 +55,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - MySQL
 - Bubble
 - Microsoft Excel, Word & Powerpoint
+- LaTeX
 - Microsoft Azure
 - Leadership
 - Public Speaking
@@ -66,29 +72,31 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 
 ## *Certifications:*
 1. [Google Cloud Program](https://drive.google.com/file/d/13dai3YoXk-r8aYjlL2sGucm6LICgTZmm/view?usp=sharing) : This program was organized by GDSC and here I learnt about Google Cloud. I earned badges for various accomplishments such as deploying to Kubernetes, building & securing networks, & creating & managing cloud resources. Here is a link to [my profile on Qwiklabs](https://www.cloudskillsboost.google/public_profiles/e7bdf1ec-8203-44af-b087-fb36aaa8d691) so you can see all of them.
-2. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing) : This course trained me in the fundamentals of Python. I learnt about a lot of things such as classes, file handling & various modules.
-3. [Programming Fundamentals- Coursera](https://drive.google.com/file/d/1x_Z-4ZmEYwvP6ST0YNSIxlwcI2UunYKl/view?usp=sharing) : This course was on Coursera and here I learnt about the basics of C language and algorithms.
-4. [AI4Students Workshop](https://drive.google.com/file/d/1pqftlsCR_kDZpgsTNE831r-2J9irqXXH/view?usp=sharing) : This course was about Artificial Intelligence & its importance as well as about Microsoft Azure. 
-5. [Python 3.4.3- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1A_NnbY0-QsLY8u18K0sxxAxxOKyphjbJ/view?usp=sharing)
-6. [C- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1A_Pz_tmZVa-4HFSJ55gm-iVUypKleQHV/view?usp=sharing)
-7. [C++- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AarQO4F5ilTAnZL6bgREph92YF0K0Fpr/view?usp=sharing)
-8. [Advanced C++- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1Ae-fYpM6TN1kkfbj9aqutnm5oP0pZ0Qb/view?usp=sharing)
-9. [Linux- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AjFj1wb7g744ALVnIT2rBe8mIn42-Cmf/view?usp=sharing)
-10. [LaTeX- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AmIlBLV_W648uOzqZyucHUz5PHTXIiqy/view?usp=sharing)
-11. [Introduction to Basic Game Development using Scratch- Coursera](https://drive.google.com/file/d/1meqlKHS1oboxBQ1B9u7cxpTtcy2onsK6/view?usp=sharing)
-12. [Machine Learning Bootcamp- Devtown](https://drive.google.com/file/d/1Afl-ysTVsSCZHs4zThEzNcrNDYeR49t_/view?usp=sharing)
-13. [Machine Learning Bootcamp- GDSC](https://drive.google.com/file/d/1AgKp79ZcyyhGpjQqmA-DPBWl0jkFxR5c/view?usp=sharing)
-14. [Machine Learning Bootcamp- Microsoft Learn Student Ambassador](https://drive.google.com/file/d/1Ai8lBlfNC5yBqChgujrRrV7wv9XeDNVI/view?usp=sharing)
-15. [GDSC WOW 2022](https://drive.google.com/file/d/1ApS8ZHUvxmTk0xIDlefihym7I3l-Qkpe/view?usp=sharing)
-16. [Web Design Masterclass](https://drive.google.com/file/d/1AOLlWMvWixF1gbE4_x_wyxWeKU2AIozk/view?usp=sharing)
-17. [Coding Fundamentals of JavaScript](https://drive.google.com/file/d/1d08ZzK9koilkZH_VJr9DpSGshiSjHUXE/view?usp=sharing)
-18. [Robotics & Automation using MATLAB Workshop](https://drive.google.com/file/d/1j8ibV7867U7OIK18XmBTZbp8HJIxiKHn/view?usp=sharing)
-19. [Tathastu DSA Workshop](https://drive.google.com/file/d/1oPf2F-mHBfHCx5EW3KXLTpgQZWiLC8yl/view?usp=sharing)
-20. [Tathastu Amazon Sellers Data Analysis Workshop](https://drive.google.com/file/d/1LTO4Fx7W-ujW6oCbD_OnzxXDvj083pLj/view?usp=sharing)
-21. [Tathastu Falling Ball Game using JavaScript Workshop](https://drive.google.com/file/d/1u8hYbMgwZvyVdpcojd8fyaqH6gkoQWSk/view?usp=sharing)
-22. [Red Brick Debate Participation](https://drive.google.com/file/d/1EjG9DA7ssF55AzF0qXmVScBCTovAx4dT/view?usp=sharing)
-23. [Student's Mindset & A Beginner's Guide For Startup](https://drive.google.com/file/d/1jZgeTAVX6Zv24oQruOqkWfpyMxGGH7Ok/view?usp=sharing)
-24. [Transforming An Idea Into An Innovation & Innovation To Patent A Journey](https://drive.google.com/file/d/1MhH66mYtYRSMjN8g4hHAcjK9L3wbmBoK/view?usp=sharing)
+2. [Full Stack Web Development Using PHP](https://drive.google.com/file/d/1AYHbcZuZJ2Sractt_jSQWSsDmRp7UzVt/view?usp=sharing) : Through this course, I learned about HTML, CSS, JavaScript,, jQuery, Bootstrap, SQL, MySQL and PHP.
+3. [Runner-Up In Batch For Making A Project For Web Development Course](https://drive.google.com/file/d/1AYiaaBIu-YmW1e8mY3BEK1GTLKlsOh4l/view?usp=sharing) : I made a website similar to Internshala, implementing various programming languages and came in second place in a batch of 40 students.
+4. [Programming Essentials in Python](https://drive.google.com/file/d/1sbd7SQdfWAmOgm517dzraxDYsIYbfl8M/view?usp=sharing) : This course trained me in the fundamentals of Python. I learnt about a lot of things such as classes, file handling & various modules.
+5. [Programming Fundamentals- Coursera](https://drive.google.com/file/d/1x_Z-4ZmEYwvP6ST0YNSIxlwcI2UunYKl/view?usp=sharing) : This course was on Coursera and here I learnt about the basics of C language and algorithms.
+6. [AI4Students Workshop](https://drive.google.com/file/d/1pqftlsCR_kDZpgsTNE831r-2J9irqXXH/view?usp=sharing) : This course was about Artificial Intelligence & its importance as well as about Microsoft Azure. 
+7. [Python 3.4.3- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1A_NnbY0-QsLY8u18K0sxxAxxOKyphjbJ/view?usp=sharing)
+8. [C- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1A_Pz_tmZVa-4HFSJ55gm-iVUypKleQHV/view?usp=sharing)
+9. [C++- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AarQO4F5ilTAnZL6bgREph92YF0K0Fpr/view?usp=sharing)
+10. [Advanced C++- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1Ae-fYpM6TN1kkfbj9aqutnm5oP0pZ0Qb/view?usp=sharing)
+11. [Linux- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AjFj1wb7g744ALVnIT2rBe8mIn42-Cmf/view?usp=sharing)
+12. [LaTeX- IIT Bombay Spoken Tutorial](https://drive.google.com/file/d/1AmIlBLV_W648uOzqZyucHUz5PHTXIiqy/view?usp=sharing)
+13. [Introduction to Basic Game Development using Scratch- Coursera](https://drive.google.com/file/d/1meqlKHS1oboxBQ1B9u7cxpTtcy2onsK6/view?usp=sharing)
+14. [Machine Learning Bootcamp- Devtown](https://drive.google.com/file/d/1Afl-ysTVsSCZHs4zThEzNcrNDYeR49t_/view?usp=sharing)
+15. [Machine Learning Bootcamp- GDSC](https://drive.google.com/file/d/1AgKp79ZcyyhGpjQqmA-DPBWl0jkFxR5c/view?usp=sharing)
+16. [Machine Learning Bootcamp- Microsoft Learn Student Ambassador](https://drive.google.com/file/d/1Ai8lBlfNC5yBqChgujrRrV7wv9XeDNVI/view?usp=sharing)
+17. [GDSC WOW 2022](https://drive.google.com/file/d/1ApS8ZHUvxmTk0xIDlefihym7I3l-Qkpe/view?usp=sharing)
+18. [Web Design Masterclass](https://drive.google.com/file/d/1AOLlWMvWixF1gbE4_x_wyxWeKU2AIozk/view?usp=sharing)
+19. [Coding Fundamentals of JavaScript](https://drive.google.com/file/d/1d08ZzK9koilkZH_VJr9DpSGshiSjHUXE/view?usp=sharing)
+20. [Robotics & Automation using MATLAB Workshop](https://drive.google.com/file/d/1j8ibV7867U7OIK18XmBTZbp8HJIxiKHn/view?usp=sharing)
+21. [Tathastu DSA Workshop](https://drive.google.com/file/d/1oPf2F-mHBfHCx5EW3KXLTpgQZWiLC8yl/view?usp=sharing)
+22. [Tathastu Amazon Sellers Data Analysis Workshop](https://drive.google.com/file/d/1LTO4Fx7W-ujW6oCbD_OnzxXDvj083pLj/view?usp=sharing)
+23. [Tathastu Falling Ball Game using JavaScript Workshop](https://drive.google.com/file/d/1u8hYbMgwZvyVdpcojd8fyaqH6gkoQWSk/view?usp=sharing)
+24. [Red Brick Debate Participation](https://drive.google.com/file/d/1EjG9DA7ssF55AzF0qXmVScBCTovAx4dT/view?usp=sharing)
+25. [Student's Mindset & A Beginner's Guide For Startup](https://drive.google.com/file/d/1jZgeTAVX6Zv24oQruOqkWfpyMxGGH7Ok/view?usp=sharing)
+26. [Transforming An Idea Into An Innovation & Innovation To Patent A Journey](https://drive.google.com/file/d/1MhH66mYtYRSMjN8g4hHAcjK9L3wbmBoK/view?usp=sharing)
 
 ## *Volunteer Work:*
 - Founding Member & Event Management Head of MESCOE's CodeStorm Club
