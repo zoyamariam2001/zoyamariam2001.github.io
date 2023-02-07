@@ -5,6 +5,9 @@
 Hello!
 I'm currently a second-year student, pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my prime area of interest is programming, I also enjoy learning about different fields & exploring different domains. I have been told that I have good leadership skills & that I am good at planning & executing the plans efficiently, involving all my team-mates where everyone's opinion is taken into consideration. I immensely enjoy challenges & enjoy those projects and exercises which push me to my limits. Public speaking is another of my forte.
 
+## *Resume:*
+[Here is a link of my resume.](https://drive.google.com/file/d/1C5GVPs9pKhsEcPG9YAx9NVhfofEGv7Fo/view?usp=sharing)
+
 ## *Internships:*
 #### [Web Development](https://hand-in-hand-ngo.000webhostapp.com/) -
 - I made a website for an NGO as part of my internship for AnsrCoach in the month of January 2022.
@@ -71,7 +74,7 @@ I'm currently a second-year student, pursuing a bachelor's degree in Computer En
 - Creating a site for a bakery using HTML, CSS, JavaScript, Bootstrap, jQuery, SQL & PHP.
 
 ## *Certifications:*
-1. [Technical Support Fundamentals- Google, Coursera](https://drive.google.com/file/d/1ESpupQqaNYqaP46O3yDQCQwVM9FsuuX_/view?usp=sharing) : This course trained me in the fundamentals of IT. I learned about various topics such as Digital Logic, Computer Architecture, Operating Systems, Networking, Software and Troubleshooting.
+1. [Google Technical Support Fundamentals- Coursera](https://drive.google.com/file/d/1ESpupQqaNYqaP46O3yDQCQwVM9FsuuX_/view?usp=sharing) : This course trained me in the fundamentals of IT. I learned about various topics such as Digital Logic, Computer Architecture, Operating Systems, Networking, Software and Troubleshooting.
 2. [Google Cloud Program](https://drive.google.com/file/d/13dai3YoXk-r8aYjlL2sGucm6LICgTZmm/view?usp=sharing) : This program was organized by GDSC and here I learnt about Google Cloud. I earned badges for various accomplishments such as deploying to Kubernetes, building & securing networks, & creating & managing cloud resources. Here is a link to [my profile on Qwiklabs](https://www.cloudskillsboost.google/public_profiles/e7bdf1ec-8203-44af-b087-fb36aaa8d691) so you can see all of them.
 3. [Full Stack Web Development Using PHP](https://drive.google.com/file/d/1AYHbcZuZJ2Sractt_jSQWSsDmRp7UzVt/view?usp=sharing) : Through this course, I learned about HTML, CSS, JavaScript, jQuery, Bootstrap, SQL, MySQL and PHP.
 4. [Runner-Up In Batch For Making A Project For Web Development Course](https://drive.google.com/file/d/1AYiaaBIu-YmW1e8mY3BEK1GTLKlsOh4l/view?usp=sharing) : I made a website similar to Internshala, implementing various programming languages and came in second place in a batch of 40 students.
