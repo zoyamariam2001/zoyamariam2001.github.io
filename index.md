@@ -3,7 +3,7 @@
 
 ## *About Me:*
 Hello!
-I'm currently a second-year student, pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my prime area of interest is programming, I also enjoy learning about different fields & exploring different domains. I have been told that I have good leadership skills & that I am good at planning & executing the plans efficiently, involving all my team-mates where everyone's opinion is taken into consideration. I immensely enjoy challenges & enjoy those projects and exercises which push me to my limits. Public speaking is another of my forte.
+I'm currently a third-year student, pursuing a bachelor's degree in Computer Engineering from a reputed college in Pune, India, which is also known as the Oxford of the East. Although my prime area of interest is programming, I also enjoy learning about different fields & exploring different domains. I have been told that I have good leadership skills & that I am good at planning & executing the plans efficiently, involving all my team-mates where everyone's opinion is taken into consideration. I immensely enjoy challenges & enjoy those projects and exercises which push me to my limits. Public speaking is another of my forte.
 
 ## *Resume:*
 [Here is a link of my resume.](https://drive.google.com/file/d/1C5GVPs9pKhsEcPG9YAx9NVhfofEGv7Fo/view?usp=sharing)
